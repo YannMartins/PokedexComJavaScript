@@ -67,7 +67,7 @@ Aperfeiçoando as mecânicas já disponíveis no nosso código, convertemos o mo
 
 ## 🏁 Resultado Final
 
-![image](https://user-images.githubusercontent.com/102706324/235333881-00b62caf-27a3-4845-842c-71fb3a816301.png)
+### Link do site: https://yannmartins.github.io/pokedexComJavaScript/
 
 https://user-images.githubusercontent.com/102706324/235334054-d1c8cd12-2c49-45bc-ab1f-858165697996.mp4
 
